@@ -1,6 +1,6 @@
 # AND-grid
-how to create a test for vhdl
-you can test it with a test bench
+---how to create a test for vhdl
+---you can test it with a test bench
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
